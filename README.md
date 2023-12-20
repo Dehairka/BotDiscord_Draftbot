@@ -26,4 +26,5 @@ Voici un BOT Discord pour le serveur Le Domaine Du Plaisir
 - argentretirer : Permet de retirer un nombre de diamants à un membre
 - journalier : Permet d'obtenir des diamants quotidiennement
 - payer : Permet de donner des diamants à un autre membre
-- dropargent : Créer un message qui offre de l'argent au premier qui clique sur le bouton.
+- dropargent : Créer un message qui offre de l'argent au premier qui clique sur le bouton
+- topargent : Afficher le classement des membres en fonction de leur argent
